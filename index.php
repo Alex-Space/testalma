@@ -44,6 +44,7 @@
   <!-- sctipt area begin  -->
   <script src="js/jquery-1.11.2.min.js"></script>
   <script src="js/scripts.js"></script>
+  <script src="js/scripts2.js"></script>
   <!-- sctipt area end  -->
   
 </body>
