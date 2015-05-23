@@ -33,11 +33,14 @@
   <div>new</div>
   <div class="blabla">
     <a href="#">Link</a>
+    <div class="delete">all</div>
   </div>
-  <p class="veritati">Ой все. Алекс тут дописал!!!</p>
+  <p class="veritati">Ой все.</p>
   <!-- sctipt area begin  -->
   <script src="js/jquery-1.11.2.min.js"></script>
   <script src="js/scripts.js"></script>
+  <script src="../js/scripts2.js"></script>
+  <script src="js/scripts3.js"></script>
   <!-- sctipt area end  -->
   
 </body>
