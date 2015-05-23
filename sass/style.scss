@@ -1,0 +1,60 @@
+@import 'compass/reset';
+
+/******** compass sprites begin ********/
+@import "compass/utilities/sprites";
+
+$sprite-layout: normal;
+$sprite-spacing: 10px;
+@import "sprite/*.png";
+@include all-sprite-sprites;
+/******** compass sprites end ********/
+
+/******** hack begin ********/
+  div, span, a, li, h1, h2, h3, h4, 
+  h5, h6, td, input, textarea, button {
+    -webkit-text-size-adjust: none;
+    -o-text-size-adjust: none;
+    -moz--text-size-adjust: none;
+    text-size-adjust: none;
+    max-height: 999999px;
+  }
+  input[type=text],
+  input[type=password],
+  input[type=submit],
+  textarea {
+    -webkit-appearance: none !important;
+  }
+  .clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+  }
+  .clearfix {
+  display: inline-block;
+  }
+  html[xmlns] .clearfix {
+  display: block;
+  }
+  * html .clearfix {
+  height: 1%;
+  }
+/******** hack end ********/
+
+/******** main styles begin ********/
+  .rel {
+    position: relative;
+  }
+  .clear {
+    clear: both;
+  }
+  .notvalid {
+    border: 1px solid red;
+  }
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+  }
+/******** main styles end ********/
