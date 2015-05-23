@@ -34,10 +34,12 @@
   <div class="blabla">
     <a href="#">Link</a>
     <p>
+John!
       Вася!
     </p>
     <p>
       Alex!
+
     </p>
   </div>
   <p class="veritati">Ой все.</p>
