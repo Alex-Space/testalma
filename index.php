@@ -25,14 +25,19 @@
   <![endif]-->
 </head>
 <body>
-  <?php echo "Это ПХП текст"; ?>
+  <?php  if ($_SESSION["res"]) {
+  echo $_SESSION["res"];
+  unset($_SESSION["res"]);
+  }
+  ?>
 
-  <div class="blabla">
+  <div class="not-blabla">
     <a href="#">Link</a>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias autem, labore deleniti natus consectetur saepe necessitatibus, rerum vel eligendi ab nam hic at totam adipisci veritatis dignissimos ad dolorum voluptate.
     </p>
   </div>
+  <p class="veritati">Ой все.</p>
   <!-- sctipt area begin  -->
   <script src="js/jquery-1.11.2.min.js"></script>
   <script src="js/scripts.js"></script>
