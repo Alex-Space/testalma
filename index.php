@@ -33,12 +33,6 @@
   <div>new</div>
   <div class="blabla">
     <a href="#">Link</a>
-    <p>
-      <h1>True Zagolov</h1>
-      <span>*88888</span>
-      <p>Где-то в параллельной реальности...</p>
-      <span>НОВЫЙ спан</span>
-    </p>
   </div>
   <p class="veritati">Ой все. Алекс тут дописал!!!</p>
   <!-- sctipt area begin  -->
