@@ -34,7 +34,10 @@
   <div class="blabla">
     <a href="#">Link</a>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias autem, labore deleniti natus consectetur.
+      Вася!
+    </p>
+    <p>
+      Alex!
     </p>
   </div>
   <p class="veritati">Ой все.</p>
