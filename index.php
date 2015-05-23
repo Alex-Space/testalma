@@ -36,6 +36,7 @@
     <p>
       <h1>True Zagolov</h1>
       <span>*88888</span>
+      <p>Где-то в параллельной реальности...</p>
     </p>
   </div>
   <p class="veritati">Ой все.</p>
