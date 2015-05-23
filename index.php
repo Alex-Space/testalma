@@ -34,7 +34,7 @@
   <div class="blabla">
     <a href="#">Link</a>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias autem, labore deleniti natus consectetur saepe necessitatibus, rerum vel eligendi ab nam hic at totam adipisci veritatis dignissimos ad dolorum voluptate.
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias autem, labore deleniti natus consectetur.
     </p>
   </div>
   <p class="veritati">Ой все.</p>
