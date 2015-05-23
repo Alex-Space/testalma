@@ -30,7 +30,7 @@
   unset($_SESSION["res"]);
   }
   ?>
-
+  <div>new</div>
   <div class="blabla">
     <a href="#">Link</a>
     <p>
